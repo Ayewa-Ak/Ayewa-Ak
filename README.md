@@ -28,7 +28,6 @@ at Bologna Business School, University of Bologna (2025–2027)
 | [Customer Churn Prediction](https://github.com/Ayewa-Ak/Customer-Churn-Prediction-ML) | ML model predicting motor insurance churn using LightGBM (93.4% ROC-AUC) on 908K+ observations | Python · LightGBM · XGBoost · WandB |
 | [CRM Customer Segmentation](https://github.com/Ayewa-Ak/CRM-Segmentation) | K-Means clustering on 2M+ retail transactions to drive targeted CRM campaigns | Python · sklearn · pandas |
 | [Customer & Marketing Analytics](https://github.com/Ayewa-Ak/Customer-Marketing-Analytics) | Regression modelling & NLP analysis of influencer and brand social media performance | Python · statsmodels · Transformers |
-| [Cross-Domain Opinion Mining](https://github.com/Ayewa-Ak/Text-Mining-NLP-) | Fine-tuned ModernBERT achieving 90% cross-domain sentiment accuracy on 150K Amazon reviews | Python · HuggingFace · PyTorch · WandB |
 
 ---
 
